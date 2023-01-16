@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iwujiofor
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in Coding, UX Design and Graphic Design 
+- 🌱 I’m currently learning UX Design 
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me iwujioforsam@gmail.com
 
